@@ -1,0 +1,4 @@
+instance,paper average optimality gap,average optimality gap,average improvement,average time gap
+smallset,26.26 %,5.84 %,21.69 %,-0.25
+FixedM_large,28.69 %,6.96 %,23.35 %,0.2
+FixedN,25.40 %,8.07 %,18.86 %,0.22
